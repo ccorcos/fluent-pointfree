@@ -1,6 +1,7 @@
 {
   "name": "fluent-pointfree",
   "version": "0.0.1",
+  "main": "lib/pointfree.js",
   "scripts": {
     "build": "doug-lib build",
     "test": "doug-lib build && doug-lib test",
