@@ -1,5 +1,8 @@
 # Fluent Pointfree
 
+[![](https://travis-ci.org/ccorcos/fluent-pointfree.svg?branch=master)](https://travis-ci.org/ccorcos/fluent-pointfree)
+
+
 This project is a little experiment using [ES6 Proxy][proxy] to create [pointfree functions][tacit] using a [fluent interface][fluent].
 
 You can install from NPM:
