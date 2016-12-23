@@ -8,6 +8,6 @@
     "release": "doug-lib release"
   },
   "devDependencies": {
-    "doug-lib": "^0.5.0"
+    "doug-lib": "^0.5.1"
   }
 }
